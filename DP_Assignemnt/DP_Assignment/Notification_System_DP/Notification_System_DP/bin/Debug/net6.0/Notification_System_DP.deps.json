@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Notification_System_DP/1.0.0": {
+        "runtime": {
+          "Notification_System_DP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notification_System_DP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
